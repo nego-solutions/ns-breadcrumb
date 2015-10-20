@@ -11,4 +11,4 @@ $manifest['display'] = true;
 $manifest['standalone'] = true;
 $manifest['thumbnail'] = NS_EXT_IMG.'ns-avatar.png';
 
-$manifest['github_update'] = 'cosminsc/ns-breadcrumb';
+$manifest['github_update'] = 'nego-solutions/ns-breadcrumb';
