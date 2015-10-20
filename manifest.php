@@ -9,6 +9,6 @@ $manifest['description'] = __( 'Display breadcrumb trail. It supports custom pos
 $manifest['version'] = '1.0.0';
 $manifest['display'] = true;
 $manifest['standalone'] = true;
-$manifest['thumbnail'] = NS_EXT_IMG.'ns-avatar.png';
+$manifest['thumbnail'] = plugin_dir_url(__FILE__).'ns-avatar.png';
 
 $manifest['github_update'] = 'nego-solutions/ns-breadcrumb';
